@@ -1,4 +1,4 @@
-# 112-Conceptuals
+# 112-Chained-Hash-Tables
 A repo to contain personal work for classes
 
 Queue, LLQueue, HashTable are necessary for functionality. ChainedHashTable was completely implemented by me.
