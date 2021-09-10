@@ -1,5 +1,5 @@
 # 112-Chained-Hash-Tables
-A repo to contain personal work for classes
+Minor Project for CS112 (Data Structures)
 
 Queue, LLQueue, HashTable are necessary for functionality. ChainedHashTable was completely implemented by me.
 
